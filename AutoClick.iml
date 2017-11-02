@@ -9,6 +9,7 @@
       <src_folder value="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK" expected_position="2" />
       <src_folder value="com.android.ide.eclipse.adt.LIBRARIES" expected_position="3" />
     </src_description>
+    Joinptc.com
   </component>
   <component name="FacetManager">
     <facet type="android" name="Android">
